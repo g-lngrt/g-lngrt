@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @g-lngrt
+- 👋  Hola, soy @g-lngrt
 - 👀 Tengo conocimientos en CM, Diseño gráfico digital y copiwriting
-- 🌱 I’m currently learning  programacion en DH
+- 🌱 Alcualmente me encuentro estudiando programacion en DH
 
